@@ -1,2 +1,3 @@
 # c-dbConnect-Filereading
-#db connect and actions: https://github.com/csokaandras/Csharp_DB_connect
+# db connect and actions: https://github.com/csokaandras/Csharp_DB_connect
+## Form1.cs dataSource, bindingSource for *DataGidView*
